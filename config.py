@@ -1,0 +1,2 @@
+# config.py
+API_TOKEN = "7175878602:AAHxAhvBcfnGB5b21epiFz1vX5c0Bt2YBCw"
